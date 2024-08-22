@@ -66,17 +66,17 @@
   <td align="center">
   <p align="center">
   <a href="https://github.com/0xnishant10">
-    <img align="center" height="300px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=0xnishant10&"/>
+    <img align="center" height="300px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=iakshat1501&"/>
   </a>
   </td>
   <td align="center">
   <a href="https://github.com/0xnishant10">
-  <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api?username=0xnishant10" />
+  <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api?username=iakshat1501" />
   </a>
   </td>
 </p>
 </details>
 </table>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xnishant10&layout=compact" alt="0xnishant10" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakshat1501&layout=compact" alt="iakshat1501" /></p>
 
 
