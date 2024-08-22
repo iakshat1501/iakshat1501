@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://www.linkedin.com/in/akshat-garg15012003" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Akshat Garg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akshat-garg15012003" target="_blank"><img align="center" src="https://img.icons8.com/?size=512&id=8808&format=png" alt="Akshat Garg" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_garg.akshat_/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="_garg.akshat_" height="30" width="40" /></a>
 </p>
 
