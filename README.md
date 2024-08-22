@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently trying to Understand the language of 0s and 1s.
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **iakshat378@gmail.com**
 
