@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xnishant10&label=Profile%20views&color=0e75b6&style=flat" alt="0xnishant10" /> </p>
 
 - 📫 How to reach me iakshat378@gmail.com
-- ⚡ Fun fact **My Bugs So Good, they call them features.😄
+- ⚡ I see dead data. And I revive it...😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
